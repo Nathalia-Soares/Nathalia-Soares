@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathália Soares</h1>
-<h3 align="center">A Software developer student passionate for learning, specially to improve my tech's hard skills.developer from India</h3>
+<h3 align="center">A Software developer student passionate for learning, specially to improve my tech's hard skills.</h3>
 <h3 align="center">I'm studyingon the 2nd period at Multiplatform Software Development's course in Fatec Cotia, based in Cotia, São Paulo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathalia-soares&label=Profile%20views&color=0e75b6&style=flat" alt="nathalia-soares" /> </p>
