@@ -6,12 +6,13 @@ I'm current looking for an intern job, a part-time job or a freelancer project, 
 
 At this moment, I'm leaning Java, PHP, Javascript, SQL, Data Structures, Software Engineering and API's.
 
-[![Nathália Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathalia-Soares)]
+[Nathália Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathalia-Soares&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalia-Soares&theme=dracula)
 
 
 You can find me on social media:
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">]
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">]
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 Technology and Tools:
 
