@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nathaliasoaresoliver@gmail.com**
 
-- ⚡ Fun fact **I'm also architect(), gamer lover and streamer. Maybe you can find my channel somewhere ;)**
+- ⚡ Fun fact **I'm also architect, game lover and streamer. Maybe you can find my channel somewhere ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
