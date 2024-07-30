@@ -105,7 +105,7 @@
 
 <h3 align="left">Mensaging:</h3>
     <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40"/>
     </p>
 <br>
 
