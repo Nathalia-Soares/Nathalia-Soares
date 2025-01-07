@@ -38,6 +38,9 @@
         <a href="https://angular.dev" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
         </a>
+        <a href="https://react.dev" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
+        </a>
     </p>
 <br>
   
@@ -58,6 +61,7 @@
 <h3 align="left">Frameworks Backend:</h3>
     <p align="left">    
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+      <a href="https://vertx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vertx/vertx-plain-wordmark.svg" alt="vert.x" width="40" height="40"/> </a>
       <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a> 
     </p>
 <br>
@@ -89,6 +93,12 @@
     </p>
 <br>
 
+<h3 align="left">Mobile:</h3>
+    <p align="left">
+        <a href="https://developer.android.com/develop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/> </a>
+    </p>
+<br>
+
 <h3 align="left">DevOps:</h3>
     <p align="left">
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
@@ -103,7 +113,8 @@
     <p align="left">
         <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40"/> </a>
         <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/> </a> 
-        <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/> </a>    
+        <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/> </a>
+        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40"/> </a>    
     </p>
 <br>
 
@@ -130,6 +141,7 @@
             </i>
         </a>
         <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40"/> </a>
+        <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" width="40" height="40"/> </a>
     </p>
 <br>
 
@@ -138,6 +150,7 @@
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> </a>
         <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/> </a>
         <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/> </a>
+        <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg" width="40" height="40"/> </a>
     </p>
 <br>
 
