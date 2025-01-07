@@ -99,6 +99,12 @@
     </p>
 <br>
 
+<h3 align="left">IoT:</h3>
+    <p align="left">
+        <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> </a>
+    </p>
+<br>
+
 <h3 align="left">DevOps:</h3>
     <p align="left">
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
@@ -129,6 +135,12 @@
         <a href="https://www.elastic.co/pt/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/> </a>
         <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/> </a>
         <a href="https://www.elastic.co/pt/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="40" height="40"/> </a> 
+    </p>
+<br>
+
+<h3 align="left">Cloud:</h3>
+    <p align="left">
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> </a>
     </p>
 <br>
 
