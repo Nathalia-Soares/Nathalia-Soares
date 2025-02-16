@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathália Soares</h1>
 <h3 align="center">A Software developer student in career transition from Architecture to IT, based in Cotia, São Paulo. Passionate for learning, specially to improve my tech's hard skills.</h3>
-<h3 align="center">At this moment, I'm a 4th term Multplatform Software Development's student at Fatec Cotia.</h3>
+<h3 align="center">At this moment, I'm a 5th term Multplatform Software Development's student at Fatec Cotia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathalia-soares&label=Profile%20views&color=0e75b6&style=flat" alt="nathalia-soares" /> </p>
 
